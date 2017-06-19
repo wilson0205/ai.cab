@@ -1,5 +1,5 @@
 ---
-title: TOKYO ROBOTICS FIRM READY TO BUILD DRIVERLESS CABS FOR 2020 OLYMPICS
+title: Tokyo Robotics Firm Ready to Build Driverless Cabs for 2020 Olympics
 date: 2017-06-19 11:49:00 Z
 ---
 
