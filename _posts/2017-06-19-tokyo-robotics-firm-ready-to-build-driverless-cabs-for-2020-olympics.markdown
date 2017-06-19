@@ -20,3 +20,5 @@ Japan’s self-driving plan for the Olympics isn’t only a way for the nation t
 “We’ve been trying to improve diversity by hiring more new graduates, women, and foreigners, but this will not be enough to ease labor shortages,” Kazutaka Tomita, Hinomaru president, told Reuters, adding, “We’ll have to compensate for the lack of supply by using autonomous driving technology.”
 
 ZMP boss Hisashi Taniguchi promised that “autonomous taxis and the taxi industry can grow and prosper together” as he looked forward to transforming the streets of Tokyo with driverless cars.
+
+source: [digitaltrends.com](http://digitaltrends.com)
