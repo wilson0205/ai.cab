@@ -21,4 +21,4 @@ Japan’s self-driving plan for the Olympics isn’t only a way for the nation t
 
 ZMP boss Hisashi Taniguchi promised that “autonomous taxis and the taxi industry can grow and prosper together” as he looked forward to transforming the streets of Tokyo with driverless cars.
 
-source: [digitaltrends.com](http://digitaltrends.com)
+source: [digitaltrends.com](http://digitaltrends.com/cars/tokyo-driverless-cabs-2020/)
