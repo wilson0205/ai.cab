@@ -1,8 +1,10 @@
 ---
 title: About AI.cab
 permalink: "/about/"
-layout: page
 tags: about
+layout: page
 ---
+
+Artificial Intelligence Blog.
 
 Copyright 2016 AI.cab℠. All rights reserved.
